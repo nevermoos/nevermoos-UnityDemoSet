@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2479BDE7-26EA-A61A-8E37-48A4E236D674}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/NewBehaviourScript.cs">
+    <Files>
+      <File FileName="Assets/Scenes/NewBehaviourScript.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="NewBehaviourScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1caa4240-0626-4ca7-826d-e57f4f0bf010" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
